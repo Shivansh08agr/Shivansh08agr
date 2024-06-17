@@ -1,16 +1,11 @@
-## Hi there 👋
+Shivansh Agrawal
+Hello! I'm Shivansh Agrawal, a student at IIIT Sonepat with a passion for coding and web development. Currently, I am exploring various technologies to expand my skills in software development.
 
-<!--
-**Shivansh08agr/Shivansh08agr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+🎓 Education: Studying at IIIT Sonepat
+💻 Skills: HTML, CSS, JavaScript, C, C++
+🌱 Currently Learning: ReactJS
+Contact
+LinkedIn: Shivansh Agrawal
+Email: shivansh.agrprof@gmail.com
+Feel free to connect with me on LinkedIn or drop me an email if you have any questions, opportunities, or just want to say hello!
